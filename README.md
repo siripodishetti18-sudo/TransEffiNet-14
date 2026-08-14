@@ -1,6 +1,14 @@
+# TransEffiNet-14
+
+**Explainable Hybrid EfficientNet-B4 + Transformer for Multi-Label Chest X-Ray Disease Classification**
+
+A lightweight hybrid deep learning framework that combines EfficientNet-B4's local feature extraction with a compact Transformer encoder's global context modelling, trained on the NIH ChestX-ray14 dataset to detect 14 thoracic diseases simultaneously — with built-in Grad-CAM explainability and a prototype confidence-report generator.
+
+> 📄 Based on our paper *"Explainable Hybrid EfficientNet-B4 and Transformer Model for Multi-Label Lung Disease Detection from Chest X-Ray Images"* (submitted to IEEE CEECT 2026)
+
 ---
 
-## 📋 Supervisor Details
+## 📋 Project Details
 
 | | |
 |---|---|
@@ -9,15 +17,6 @@
 | **Contact** | 6300890083 |
 | **Project Type** | Mini Project / EPBL Internship |
 | **Domain** | Artificial Intelligence, Machine Learning, AI |
-
----
-# TransEffiNet-14
-
-**Explainable Hybrid EfficientNet-B4 + Transformer for Multi-Label Chest X-Ray Disease Classification**
-
-A lightweight hybrid deep learning framework that combines EfficientNet-B4's local feature extraction with a compact Transformer encoder's global context modelling, trained on the NIH ChestX-ray14 dataset to detect 14 thoracic diseases simultaneously — with built-in Grad-CAM explainability and a prototype confidence-report generator.
-
-> 📄 Based on our paper *"Explainable Hybrid EfficientNet-B4 and Transformer Model for Multi-Label Lung Disease Detection from Chest X-Ray Images"* (submitted to IEEE CEECT 2026)
 
 ---
 
