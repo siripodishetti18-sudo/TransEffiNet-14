@@ -1,3 +1,16 @@
+---
+
+
+
+| | |
+|---|---|
+| **Supervisor** | Ms. M. Sowjanya |
+| **Email** | [sowjanya1637@vardhaman.org](mailto:sowjanya1637@vardhaman.org) |
+| **Contact** | 6300890083 |
+| **Project Type** | Mini Project / EPBL Internship |
+| **Domain** | Artificial Intelligence, Machine Learning, AI |
+
+---
 # TransEffiNet-14
 
 **Explainable Hybrid EfficientNet-B4 + Transformer for Multi-Label Chest X-Ray Disease Classification**
